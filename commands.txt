@@ -1,0 +1,2 @@
+btop fastfetch transmission firefox git
+super thunar=pkexec thunar
