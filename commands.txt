@@ -1,2 +1,2 @@
-btop fastfetch transmission firefox git
+apps that i use=btop fastfetch transmission firefox git flatpak
 super thunar=pkexec thunar
