@@ -1,2 +1,3 @@
 apps that i use=btop fastfetch transmission firefox git flatpak
+flathub setup=flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 super thunar=pkexec thunar
