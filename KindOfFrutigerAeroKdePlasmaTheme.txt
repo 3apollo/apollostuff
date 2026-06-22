@@ -1,0 +1,9 @@
+global theme=               Expose Air Dark
+colors=                     kvantum; accent from wallpaper
+application style=          kvantum dark
+plasma style=               expose air
+window decorations=         expose air dark
+icons=                      optional(i prefer breeze dark) 
+cursors=                    optional
+system sounds=              optional
+splash screen=              optional
